@@ -15,6 +15,8 @@
 #git log
 #git log --oneline
 #git branch -D nombre (elimino la rama)
+#git checkout -b otra_rama (te crea otra rama y te apsa a ella)
+
 
 
 
