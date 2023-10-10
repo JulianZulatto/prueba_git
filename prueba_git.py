@@ -14,7 +14,7 @@
 #git commit -m 'iniciamos el repo con el archivo receta1.txt'
 #git log
 #git log --oneline
-
+#git branch -D nombre (elimino la rama)
 
 
 
