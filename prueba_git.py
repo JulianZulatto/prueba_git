@@ -14,7 +14,10 @@
 #git commit -m 'iniciamos el repo con el archivo receta1.txt'
 #git log
 #git log --oneline
-#git branch -D nombre (elimino la rama)
+#git branch (y me muestra las ramas que tengo creadas)
+#git branch desarrollo (me crea una rama llamada desarrollo)
+#git checkout desarrollo(y me cambia a la rama desarrollo)
+#los cambios no comitiados se van a la rama de trabajo a la que me aciente#git branch -D nombre (elimino la rama)
 #git checkout -b otra_rama (te crea otra rama y te apsa a ella)
 
 
