@@ -12,6 +12,8 @@
 #git config --global user.name
 #git config --global user.email
 #git commit -m 'iniciamos el repo con el archivo receta1.txt'
+#git log
+#git log --oneline
 
 
 
